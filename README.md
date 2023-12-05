@@ -1,3 +1,3 @@
-# variSlope
 # gentlyWeeps
-# gentlyWeeps
+
+Under development :) 
